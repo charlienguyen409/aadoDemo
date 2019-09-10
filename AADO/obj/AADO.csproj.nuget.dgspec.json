@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\chnguyen\\source\\repos\\AADO\\AADO\\AADO.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\chnguyen\\source\\repos\\AADO\\AADO\\AADO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chnguyen\\source\\repos\\AADO\\AADO\\AADO.csproj",
+        "projectName": "AADO",
+        "projectPath": "C:\\Users\\chnguyen\\source\\repos\\AADO\\AADO\\AADO.csproj",
+        "packagesPath": "C:\\Users\\chnguyen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chnguyen\\source\\repos\\AADO\\AADO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chnguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
