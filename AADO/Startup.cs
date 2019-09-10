@@ -27,7 +27,7 @@ namespace AADO
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Hello Aramark!!!");
+                await context.Response.WriteAsync("Hello Aramark Slot!!!");
             });
         }
     }
